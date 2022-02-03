@@ -1,0 +1,7 @@
+setup.py
+mimetype/__init__.py
+mimetype/mimetype.py
+mimetype.egg-info/PKG-INFO
+mimetype.egg-info/SOURCES.txt
+mimetype.egg-info/dependency_links.txt
+mimetype.egg-info/top_level.txt
