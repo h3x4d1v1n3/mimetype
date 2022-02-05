@@ -1,5 +1,6 @@
 setup.py
 mimetype/__init__.py
+mimetype/find_by_file_name.py
 mimetype/mimetype.py
 mimetype.egg-info/PKG-INFO
 mimetype.egg-info/SOURCES.txt
